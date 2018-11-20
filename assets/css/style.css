@@ -1,0 +1,15 @@
+body {
+	background-color: #205ac8;
+}
+
+.box {
+	border: 2px dashed white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+p {
+	color: white;
+    text-align: center;
+    padding: 4px;
+}
